@@ -14,3 +14,11 @@ function areatriangulo(base,altura){
 }
 console.log(areatriangulo(5,5));
 
+let nome=parseInt(prompt('digite seu primeiro numero'/));
+let nome=parseInt(prompt('digete seu segundo numero'/));
+let nome=parseInt(prompt('digete seu terceiro numero'/));
+function media(valor1,valor2,valor3){
+    return (valor1+valor2+valor3)/3;
+}
+console.log(media(valor1,valor2,valor3));
+document.write(media(valor1,valor2,valor3));
