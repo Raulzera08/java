@@ -12,5 +12,5 @@ console.log(areaquadrado(5));
 function areatriangulo(base,altura){
     return base*altura/5;
 }
-console.log(areatriangulo(3,10));
+console.log(areatriangulo(5,5));
 
